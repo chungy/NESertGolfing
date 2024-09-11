@@ -1,11 +1,12 @@
 cc65/
 libsrc/
 temp/runtime/
-temp/*.o
 temp/*.s
-temp/*.dbg
-temp/*.map
 temp/*.lst
-temp/*.nes
 *.opt
 cmd.exe.lnk
+dgolf.c.s
+*.o
+*.dbg
+*.map
+*.nes
